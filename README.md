@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a second-year Information Technology student at President University, passionate about cybersecurity.<br>🔭 Currently working on: A Digital Secure Sign-Up System using HTML, Tailwind CSS, Python, and Firebase to explore secure user authentication.<br><br>🤝 Looking to collaborate on: Cybersecurity projects, especially in CTF, penetration testing, or digital forensics.<br><br>❓ Looking for help with: Optimizing security best practices in Python-Firebase web applications.<br><br>🌱 Currently learning: Advanced digital forensics and cryptographic techniques through hands-on CTF challenges and tools like Autopsy and Burp Suite.<br><br>💬 Ask me about: Web exploitation, OSINT, and tools like Wireshark, Kali Linux, or Burp Suite.<br><br>🎉 Fun fact: I also do multimedia stuff considering my major at vocational highschool
+👋 Hi there! I'm a third-year Information Technology student at President University, passionate about cloud and security.<br><br>🌱 Currently learning: Cloud computing with AWS resource to create a secure cloud environment architecture.<br><br>🎉 Additional: I also do multimedia stuff considering my major at vocational highschool
 
 
 ## 🌐 Socials:
